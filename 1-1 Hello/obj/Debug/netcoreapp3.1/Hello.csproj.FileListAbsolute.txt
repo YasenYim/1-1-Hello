@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+E:\Unity\NikoLua\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+E:\Unity\NikoLua\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+E:\Unity\NikoLua\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+E:\Unity\NikoLua\Hello\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.AssemblyReference.cache
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+E:\Unity\NikoLua\Hello\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
